@@ -1,0 +1,20 @@
+{
+  "name": "HTML Starter Framework",
+  "version": "1.0",
+  "authors": [
+  ],
+  "description": "HTML Starter Framework for Sage Theme Conversion",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "fontawesome#~4.4.0",
+    "bootstrap-sass": "~3.3.5"
+  }
+}
