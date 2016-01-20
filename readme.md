@@ -42,7 +42,3 @@ You'll need to do the following to create the static assets.
 
 1. From the root directory, run *npm install*, *bower install*, *gulp build*. This will build your static assets.
 2. Run *gulp watch* to run browser sync and build the site on the fly.
-
-### Questions? ###
-
-* Contact support@visitpluto.com for additional information, or 208-392-1480.
