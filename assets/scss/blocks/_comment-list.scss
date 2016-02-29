@@ -1,0 +1,11 @@
+.comment-list {
+    @include list-unstyled;
+}
+
+.comment-list ol {
+    list-style: none;
+}
+
+.comment-form p {
+    @extend .form-group;
+}
